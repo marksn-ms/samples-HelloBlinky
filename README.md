@@ -4,6 +4,7 @@ There are multiple versions of this Windows 10 IoT Core sample:
 
 *	[C#](./CPP/README.md)
 *	[C++](./CS/README.md)
+* [C#](https://github.com/marksn-ms/samples-HelloBlinky/blob/master/CS/README.md)
 
 ## Additional resources
 * [Windows 10 IoT Core home page](https://developer.microsoft.com/en-us/windows/iot/)
