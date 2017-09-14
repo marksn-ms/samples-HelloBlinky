@@ -104,7 +104,7 @@ The code for this sample is pretty simple. We use a timer, and each time the ‘Ti
 
 ### Timer code
 
-Here is how you set up the timer in C#:
+Here is how you set up the timer in C++:
 
 
 	MainPage::MainPage()
@@ -139,7 +139,7 @@ Here is how you set up the timer in C#:
 
 ### Initialize the GPIO pin
 
-To drive the GPIO pin, first we need to initialize it. Here is the C# code (notice how we leverage the new WinRT classes in the Windows.Devices.Gpio namespace):
+To drive the GPIO pin, first we need to initialize it. Here is the C++ code (notice how we leverage the new WinRT classes in the Windows.Devices.Gpio namespace):
 
 	using namespace Windows::Devices::Gpio;
 
